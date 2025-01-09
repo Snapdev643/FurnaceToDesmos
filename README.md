@@ -1,5 +1,5 @@
 # FurnaceToDesmos (V1)
-A tool that can convert Furnace text exports to my Desmos music engine.
+A turbowarp tool that converts Furnace text exports to my Desmos music engine.
 
 [V1 Tutorial]()
 
